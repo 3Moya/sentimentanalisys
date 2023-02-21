@@ -1,0 +1,3 @@
+.env
+training.1600000.processed.noemoticon.csv
+sentiment140.csv
